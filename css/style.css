@@ -784,7 +784,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
         padding: 5px 12px;
         color: #333
     }
-    .navbar-expand-lg.navbar-dark {background: #fffef2;}
+    .navbar-expand-lg.navbar-dark {background: #fffef28c;}
     .navbar-collapse{
         padding-top: 20px;
         background: #fffef0
