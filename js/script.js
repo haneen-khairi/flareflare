@@ -38,7 +38,7 @@
         $(".client_slides").owlCarousel({
             responsive: {
             0: {
-                items: 1
+                items: 2
             },
             991: {
                     items: 6
@@ -49,7 +49,7 @@
             },
             loop: true,
             autoplay: true,
-            
+            center:true,
             smartSpeed: 700,
             dots: true
         });
