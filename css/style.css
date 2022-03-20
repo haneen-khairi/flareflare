@@ -3870,7 +3870,7 @@ p.artficial:before{
 
 .comment_area .comment-content .comment-meta .comment-reply {
     font-size: 11px;
-    color: .comment_area .comment-content .comment-meta .post-author;
+    color: grey;
     text-transform: uppercase;
 }
 
@@ -4960,7 +4960,7 @@ textarea:required {
     }
 }
 
-/
+
 
 .fullwidth {
     width: 100vw !important;
