@@ -858,7 +858,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 }
 .hero-section.ai1{
     background: url('../img/bg2.jpg') no-repeat;
-    background-position:center;
+    background-position:center left;
     background-size: cover;
 }
 .hero-section.ai2{
